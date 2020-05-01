@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1514296066 source:c:\users\ayous\desktop\yarab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"structs.h"
+
+1514292855 c:\users\ayous\desktop\yarab\structs.h
+
